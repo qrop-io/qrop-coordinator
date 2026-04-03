@@ -1,0 +1,4 @@
+qrop-coordinator
+qrop-coordinator-arm64
+*.exe
+.env
